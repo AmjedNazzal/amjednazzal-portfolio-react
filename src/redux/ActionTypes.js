@@ -1,0 +1,5 @@
+export const ADD_ABOUTME = 'ADD_ABOUTME';
+export const ADD_EXPERIENCES = 'ADD_EXPERIENCES';
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const PAGE_LOADING = 'PAGE_LOADING';
+export const LOADING_FAILED = 'LOADING_FAILED';
